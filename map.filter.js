@@ -51,3 +51,4 @@ const newNameArr = nameArr.map((name) => {
     }
 })
 console.log(newNameArr);
+
